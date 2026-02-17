@@ -4,6 +4,8 @@ AIM:
 To study and implement the while loop in Python for solving different problems like printing numbers, factorial, Fibonacci series, reversing a number, palindrome checking, counting digits, and searching an element in a list.
 HEORY (1–2 lines each)
 
+
+
 While Loop: while loop executes a block of code repeatedly until the given condition becomes false.
 
 Factorial: Factorial of a number n is the product of all integers from 1 to n.
@@ -78,7 +80,7 @@ After loop ends, print factorial value.
 
 Stop the program.
 
-✅ ALGORITHM 4 – Fibonacci series for n terms
+ ALGORITHM 4 – Fibonacci series for n terms
 
 Start the program.
 
@@ -116,7 +118,7 @@ Update values using a, b = b, a + b.
 
 When a becomes greater than limit, stop the program.
 
-✅ ALGORITHM 6 – Reverse a number
+ ALGORITHM 6 – Reverse a number
 
 Start the program.
 
